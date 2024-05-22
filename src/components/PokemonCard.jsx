@@ -78,7 +78,7 @@ const PokemonCard = ({ onLike, onDislike }) => {
               className="selected_card"
               component="img"
               alt={pokemon.name}
-              height="375px"
+              height="350px"
               image={imageUrl}
             />
             <CardContent>
